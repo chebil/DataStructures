@@ -1,1 +1,1 @@
-Data Structure CS2311
+Data Structure CS2311 Course Labs
