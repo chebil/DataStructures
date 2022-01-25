@@ -14,4 +14,4 @@ System.out.println("The algorithm took " + (end_time-start_time) +
                 " milliseconds.");
 ```
 ## Task 1
-Define a method "
+Write a code 
